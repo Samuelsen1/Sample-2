@@ -34,6 +34,3 @@ New developers, testers, and tech writers trying to understand or document REST 
  
 8. Save your request into a **Collection** for reuse.  
 
-💡 **Tip:** Postman also includes tools for:  
-- Writing API documentation  
-- Generating code snippets  
