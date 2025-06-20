@@ -49,7 +49,7 @@ Real-Life Example (Blog App):
 4. Click **Send** to proceed.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/sendpost.jpeg?raw=true" alt="Postman screen with Send button marked" width="800"/>
  
- 5. If successful, you will see a document window which may appear in a smaller portion. To increase the size, point your cursor at the border line at the top of the document window  and drag it upwards.
+ 5. If successful, you will see a document window with the API, which may appear in a smaller portion. To increase the size, point your cursor at the border line at the top of the document window  and drag it upwards.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/dragwindowpost.png?raw=true" alt="Postman screen with pointer at Document Window" width="800"/>
    
    You'll see these options:
@@ -58,7 +58,8 @@ Real-Life Example (Blog App):
    > - Visualise
    > - Copy
    > - Search, etc
-   (include image)
+   <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/docwindowpost.png?raw=true" alt="Postman screen with Document Window marked" width="800"/>
+   
 6. Tap the symbol **(∨)** adjacent to **Send** on the same button to save and download.
  
 7. Save your request into a **Collection** for reuse.  
