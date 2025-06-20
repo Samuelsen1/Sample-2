@@ -37,16 +37,17 @@ Real-Life Example (Blog App):
  --- 
  A. **`GET`**
 1. **Download Postman** from [https://postman.com](https://postman.com) or proceed to use the web version. 2. Create an account.  
-3. Click **New Request**.
+2. Click **New Request**.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/Newrequestpost.jpeg?raw=true" alt="Postman screen with New Request marked" width="800"/>
 
  > `GET` is set by default but in case it is not, tap the button adjacent to the search bar and select `GET`.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/getpost.jpeg?raw=true" alt="Postman screen with Get button marked" width="800"/>
 
-4. Enter a sample public API. E.g., `https://jsonplaceholder.typicode.com/posts`.
+3. Enter a sample public API. E.g., `https://jsonplaceholder.typicode.com/posts`.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/enterpost.jpeg?raw=true" alt="Postman screen with a pointer on URL" width="800"/>
      
-5. Click **Send** to proceed.
+4. Click **Send** to proceed.
+<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/sendpost.jpeg?raw=true" alt="Postman screen with Send button marked" width="800"/>
    > If successful, you will see a document window which may appear in a smaller portion. To increase the size, point your cursor at the border line at the top of the document window  and drag it upwards.
  (include image)
    
@@ -57,8 +58,7 @@ Real-Life Example (Blog App):
    > - Copy
    > - Search, etc
    (include image)
-6. Tap the symbol **∨** adjacent to **Send** on the same button to save and download.
-<img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/sendpost.jpeg?raw=true" alt="Postman screen with Send button marked" width="800"/>
+5. Tap the symbol **(∨)** adjacent to **Send** on the same button to save and download.
  
-8. Save your request into a **Collection** for reuse.  
+6. Save your request into a **Collection** for reuse.  
 
