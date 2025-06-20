@@ -13,12 +13,27 @@ New developers, testers, and tech writers trying to understand or document REST 
 
 ## What You Can Do  
 
-- Send `GET`, `POST`, `PUT`, `DELETE` requests  
-- Save and reuse requests in collections  
-- Inspect API response status and body  
+- Send `GET`, `POST`, `PUT`, `DELETE` requests.  
+- Save and reuse requests in collections.  
+- Inspect API response status and body.
 
-## Getting Started  
+`GET`, `POST`, `PUT`, `DELETE` are the HTTP methods used in Postman (and all web APIs) to interact with a server — like asking for data, sending data, updating, or deleting something. Here’s a beginner-friendly breakdown:
 
+### HTTP Methods in Postman
+- `GET` Retrieves data from a server	Get a list of blog posts or user info.
+- `POST` Sends new data to the server	Submit a form or register a new user.
+- `PUT` Updates existing data	Edit a user’s profile or change a password.
+- `DELETE` Removes data from the server	Delete a comment or account.
+
+Real-Life Example (Blog App):
+Let’s say you’re working with an API for a blog:
+-	`GET`/posts > Fetches all blog posts
+-	`POST`/posts > Creates a new blog post
+-	`PUT`/posts/5 > Updates blog post with ID **5**
+-	`DELETE`/posts/5 > Deletes blog post with ID **5**
+
+ ## Using These in Postman 
+ A. **`GET`**
 1. **Download Postman** from [https://postman.com](https://postman.com) and create an account.  
 2. Click **New Request**.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/Newrequestpost.jpeg?raw=true" alt="Postman screen with New Request marked" width="800"/>
