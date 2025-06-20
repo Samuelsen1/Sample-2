@@ -50,7 +50,7 @@ Real-Life Example (Blog App):
    > If successful, you will see a document window which may appear in a smaller portion. To increase the size, point your cursor at the border line at the top of the document window  and drag it upwards.
  (include image)
    
-You'll see these options:
+   You'll see these options:
    > - View in code: JSON (Default), XML, HTML, JavaScript, Raw, Hex and Base64.
    > - Preview
    > - Visualise
