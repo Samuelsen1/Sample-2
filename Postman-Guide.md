@@ -29,7 +29,7 @@ New developers, testers, and tech writers trying to understand or document REST 
 4. Enter a sample public API. E.g., `https://jsonplaceholder.typicode.com/posts`.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/enterpost.jpeg?raw=true" alt="Postman screen with a pointer on URL" width="800"/>
      
-6. Click **Send** and view the response.
+6. Click **Send** to save or tap the adjacent button **∨** to save and download.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/sendpost.jpeg?raw=true" alt="Postman screen with Send button marked" width="800"/>
  
 8. Save your request into a **Collection** for reuse.  
