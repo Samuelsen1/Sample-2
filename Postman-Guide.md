@@ -26,11 +26,12 @@ New developers, testers, and tech writers trying to understand or document REST 
 - `DELETE` Removes data from the server.
 
 Real-Life Example (Blog App):
-Let’s say you’re working with an API for a blog:
--	`GET`/posts > Fetches all blog posts
--	`POST`/posts > Creates a new blog post
--	`PUT`/posts/5 > Updates blog post with ID **'5'**
--	`DELETE`/posts/5 > Deletes blog post with ID **'5'**
+| Action         | API Call      | Purpose                     |
+|----------------|---------------|-----------------------------|
+| View all posts | `GET` /posts    | Retrieves blog posts        |
+| Create a post  | `POST` /posts   | Submits new post            |
+| Edit a post    | `PUT` /posts/5  | Updates post with ID 5      |
+| Delete a post  | `DELETE` /posts/5 | Deletes post with ID 5     |
 
  ## Using These in Postman
  --- 
