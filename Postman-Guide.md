@@ -33,7 +33,7 @@ Real-Life Example (Blog App):
 | Edit a post    | `PUT` /posts/5  | Updates post with ID 5      |
 | Delete a post  | `DELETE` /posts/5 | Deletes post with ID 5     |
 
- ## Using These in Postman
+ # Using These in Postman
  --- 
  A. **`GET`**
 1. **Download Postman** from [https://postman.com](https://postman.com) or proceed to use the web version. 2. Create an account.  
