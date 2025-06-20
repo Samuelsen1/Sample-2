@@ -32,7 +32,8 @@ Let’s say you’re working with an API for a blog:
 -	`PUT`/posts/5 > Updates blog post with ID **'5'**
 -	`DELETE`/posts/5 > Deletes blog post with ID **'5'**
 
- ## Using These in Postman 
+ ## Using These in Postman
+ --- 
  A. **`GET`**
 1. **Download Postman** from [https://postman.com](https://postman.com) or proceed to use the web version. 2. Create an account.  
 3. Click **New Request**.
