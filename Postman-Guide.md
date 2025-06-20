@@ -1,18 +1,15 @@
 # Beginner Guide: Setting Up Postman to Test APIs  
 
 ## Summary  
-
 Postman is an API platform for building and testing APIs. You can use it to:  
 - Send requests  
 - Inspect responses  
 - Automate tests  
 
 ## Who This Is For  
-
 New developers, testers, and tech writers trying to understand or document REST APIs.  
 
 ## What You Can Do  
-
 - Send `GET`, `POST`, `PUT`, `DELETE` requests.  
 - Save and reuse requests in collections.  
 - Inspect API response status and body.
@@ -33,8 +30,9 @@ Real-Life Example (Blog App):
 | Edit a post    | `PUT` /posts/5  | Updates post with ID 5      |
 | Delete a post  | `DELETE` /posts/5 | Deletes post with ID 5     |
 
+---
  ## Using These in Postman
- --- 
+  
  A. **`GET`**
 1. **Download Postman** from [https://postman.com](https://postman.com) or proceed to use the web version. 2. Create an account.  
 2. Click **New Request**.
