@@ -46,8 +46,15 @@ Real-Life Example (Blog App):
 4. Enter a sample public API. E.g., `https://jsonplaceholder.typicode.com/posts`.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/enterpost.jpeg?raw=true" alt="Postman screen with a pointer on URL" width="800"/>
      
-5. Click **Send** to save or tap the adjacent button **∨** to save and download.
+5. Click **Send** to proceed.
+   > If successful, you will see a document window which gives you these options:
+   > - View in code: JSON (Default), XML, HTML, JavaScript, Raw, Hex and Base64.
+   > - Preview the content.
+   > - Visualise
+   > - Copy
+   > - Search, etc
+6. Tap the symbol **∨** adjacent to **Send** on the same button to save and download.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/sendpost.jpeg?raw=true" alt="Postman screen with Send button marked" width="800"/>
  
-6. Save your request into a **Collection** for reuse.  
+8. Save your request into a **Collection** for reuse.  
 
