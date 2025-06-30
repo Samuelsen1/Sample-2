@@ -51,7 +51,7 @@ Real-Life Example (Blog App):
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/dragwindowpost.png?raw=true" alt="Postman screen with pointer at Document Window" width="800"/>
    
    You'll see these options:
-   > - View in code: JSON (Default), XML, HTML, JavaScript, Raw, Hex and Base64.
+   > - View in JSON (Default), XML, HTML, JavaScript, Raw, Hex and Base64.
    > - Preview
    > - Visualise
    > - Copy
