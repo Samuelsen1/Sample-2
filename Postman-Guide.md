@@ -33,7 +33,7 @@ Real-Life Example (Blog App):
 ---
  ## Using These in Postman
   
- A. **`GET`**
+ ### A.`GET`
 1. **Download Postman** from [https://postman.com](https://postman.com) or proceed to use the web version. 2. Create an account.  
 2. Click **New Request**.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/Newrequestpost.jpeg?raw=true" alt="Postman screen with New Request marked" width="800"/>
@@ -62,3 +62,24 @@ Real-Life Example (Blog App):
  
 7. Save your request into a **Collection** for reuse.  
 
+--
+
+### B.`POST`
+
+1. Click **New Request**.
+
+2. In the method dropdown next to the search bar (usually with `GET` as default), select **`POST`**.
+
+3. Enter a valid test API URL. Example:  
+   `https://jsonplaceholder.typicode.com/posts`
+
+4. Go to the **Body** tab → Select **raw** → Choose **JSON** from the dropdown on the right.
+
+5. Enter a sample JSON payload. For example:
+
+   ```json
+   {
+     "title": "My Post Title",
+     "body": "This is the body of the post",
+     "userId": 1
+   }
