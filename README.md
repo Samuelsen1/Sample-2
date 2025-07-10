@@ -1,6 +1,6 @@
 # Beginner Tech Docs
 
-A collection of beginner-level documentation for popular tools.
+A collection of beginner-level documentation for popular tools. 25% complete.
 
 ## 📄 Available Guides
 
