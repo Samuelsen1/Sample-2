@@ -83,3 +83,16 @@ Real-Life Example (Blog App):
      "body": "This is the body of the post",
      "userId": 1
    }
+
+---
+
+### C. `PUT`
+1.	Click **New Request.**
+   
+2.	Select `PUT` from the method dropdown.
+   
+3.	Enter a valid API URL for an existing resource. Example: `https://jsonplaceholder.typicode.com/posts/1`.
+   
+4.	Go to `Body` → `raw` → `JSON`.
+   
+5.	Enter the JSON payload with updated data:
