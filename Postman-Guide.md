@@ -96,3 +96,47 @@ Real-Life Example (Blog App):
 4.	Go to `Body` → `raw` → `JSON`.
    
 5.	Enter the JSON payload with updated data:
+
+´´´json
+   {
+  "id": 1,
+  "title": "Updated Post Title",
+  "body": "Updated content of the post",
+  "userId": 1
+}
+
+6.	Click **Send** to submit the `PUT` request.
+ >To include image
+
+7.	Save the request in a **Collection** for reuse.
+
+---
+
+### D. `DELETE`
+1.	Click New Request.
+2.	Select `DELETE` from the method dropdown.
+3.	Enter the URL of the resource to delete: `https://jsonplaceholder.typicode.com/posts/1`.
+4.	Click **Send.**
+ >To include image
+5. Check the response for confirmation of deletion.
+6.	Save the request in a **Collection** for reuse.
+
+---
+
+### Summary
+
+By following this guide, beginners can:
+-	Send `GET`, `POST`, `PUT`, `DELETE` requests
+-	Inspect responses in multiple formats (JSON, XML, HTML, etc.)
+-	Organize requests into Collections
+-	Automate testing and collaborate in Workspaces
+
+Postman is a powerful, beginner-friendly platform for exploring APIs and building practical skills for developers, testers, and technical writers.
+
+---
+
+### Resources  
+
+- [Postman Learning Center](https://learning.postman.com/)  
+- [Public APIs for testing](https://github.com/public-apis/public-apis)  
+- [Postman YouTube tutorials](https://www.youtube.com/c/Postman)  
