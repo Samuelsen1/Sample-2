@@ -34,7 +34,7 @@ Real-Life Example (Blog App):
  ## Using These in Postman
   
  ### A.`GET`
-1. **Download Postman** from [https://postman.com](https://postman.com) or proceed to use the web version. 2. Create an account.  
+1. **Download Postman** from [https://postman.com](https://postman.com) or proceed to use the web version and create an account.  
 2. Click **New Request**.
 <img src="https://github.com/Samuelsen1/Few-Important-Pics/blob/main/Newrequestpost.jpeg?raw=true" alt="Postman screen with New Request marked" width="800"/>
 
