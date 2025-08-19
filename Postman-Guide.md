@@ -97,13 +97,14 @@ Real-Life Example (Blog App):
    
 5.	Enter the JSON payload with updated data:
 
-´´´json
+   ```json
    {
-  "id": 1,
-  "title": "Updated Post Title",
-  "body": "Updated content of the post",
-  "userId": 1
-}
+     "id": 1,
+     "title": "Updated Post Title",
+     "body": "Updated content of the post",
+     "userId": 1
+   }
+   ```
 
 6.	Click **Send** to submit the `PUT` request.
  >To include image
