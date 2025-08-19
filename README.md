@@ -1,6 +1,6 @@
 # Beginner Tech Docs
 
-A collection of beginner-level documentation for popular tools. (Documentation Paused)
+A collection of beginner-level documentation for popular tools.
 
 ## 📄 Available Guides
 
