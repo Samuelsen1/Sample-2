@@ -62,7 +62,7 @@ Real-Life Example (Blog App):
  
 7. Save your request into a **Collection** for reuse.  
 
---
+---
 
 ### B.`POST`
 
