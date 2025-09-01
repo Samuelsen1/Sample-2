@@ -6,7 +6,7 @@ A collection of beginner-level documentation for popular tools.
 
 | Tool | Completion |
 |------|------------|
- | [2FA](Figma-Icons8-Guide.md) | 100 |
+ | [2FA](Figma-Icons8-Guide.md) | 100% |
  | [Postman Guide](Postman-Guide.md) | 95% |
 
 
