@@ -68,7 +68,7 @@ Real-Life Example (Blog App):
 
 1. Click **New Request**.
 
-2. In the method dropdown next to the search bar (usually with `GET` as default), select **`POST`**.
+2. In the method dropdown next to the search bar (usually with `GET` as default), select `POST`.
 
 3. Enter a valid test API URL. Example:  
    `https://jsonplaceholder.typicode.com/posts`
