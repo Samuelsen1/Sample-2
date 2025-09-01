@@ -1,6 +1,6 @@
 # Beginner Tech Docs
 
-A collection of beginner-level documentation for 2FA User Guide Postman.
+A collection of beginner-level documentation for Postman and 2FA .
 
 ## 📄 Available Guides
 
